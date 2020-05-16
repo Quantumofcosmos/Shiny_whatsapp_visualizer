@@ -1,0 +1,10 @@
+name: whatsapp-visualizer
+title:
+username:
+account: quantumofcosmos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2310687
+bundleId: 3155661
+url: https://quantumofcosmos.shinyapps.io/whatsapp-visualizer/
+when: 1589651098.04651
